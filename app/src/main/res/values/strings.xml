@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">MoranMandi</string>
+    <string name="item1">HOME</string>
+    <string name="item2">PROFILE</string>
+    <string name="item3">CART</string>
+    <string name="item4">CARE</string>
+    <string name="item5">PROFILE</string>
+    <string name="cat1">All</string>
+    <string name="cat2">EITA</string>
+    <string name="cat3">MORANG</string>
+    <string name="cat4">GITI</string>
 </resources>
